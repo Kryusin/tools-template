@@ -1,0 +1,34 @@
+version: "0.2"
+language: en
+words:
+  - tailwindcss
+  - typeof
+  - useState
+  - useEffect
+flagWords:
+  - hte
+ignorePaths:
+  - node_modules/**
+  - dist/**
+  - build/**
+  - coverage/**
+  - "*.min.*"
+ignoreRegExpList:
+  - /'s\b/
+  - /\bmock\w+\b/g
+allowCompoundWords: true
+dictionaries:
+  - typescript
+  - node
+  - npm
+  - html
+  - css
+dictionaryDefinitions: []
+languageSettings:
+  - languageId: markdown
+    ignoreRegExpList:
+      - /^```[\s\S]*?^```/gm
+  - languageId: javascript,typescript
+    dictionaries:
+      - javascript
+      - typescript

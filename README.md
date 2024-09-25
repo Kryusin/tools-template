@@ -28,3 +28,4 @@ This project is a repository to be treated as a template for various tools.
     - tailwind.config.js
     - tailwind.config.ts
 - tsconfig
+    - tsconfig.json

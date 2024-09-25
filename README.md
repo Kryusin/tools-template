@@ -7,7 +7,7 @@ This project is a repository to be treated as a template for various tools.
 
 ## 各種ツール
 - biome
-    - biome.json
+    - ![](./biome/biome.json)
 - cspell
     - cspell.config.cjs
     - cspell.config.yaml

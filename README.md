@@ -10,3 +10,5 @@ This project is a repository to be treated as a template for various tools.
 - prittier
 - biome
 - tsconfig
+- cspell
+- tailwind

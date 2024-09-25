@@ -25,4 +25,6 @@ This project is a repository to be treated as a template for various tools.
     - .prettierrc.cjs
     - .prettierrc.mjs
 - tailwind
+    - tailwind.config.js
+    - tailwind.config.ts
 - tsconfig

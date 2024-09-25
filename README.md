@@ -9,6 +9,9 @@ This project is a repository to be treated as a template for various tools.
 - biome
     - biome.json
 - cspell
+    - cspell.config.cjs
+    - cspell.config.yaml
+    - cspell.json
 - eslint
 - prittier
 - tailwind

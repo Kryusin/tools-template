@@ -6,9 +6,10 @@
 This project is a repository to be treated as a template for various tools.
 
 ## 各種ツール
+- biome
+    - biome.json
+- cspell
 - eslint
 - prittier
-- biome
-- tsconfig
-- cspell
 - tailwind
+- tsconfig

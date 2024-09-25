@@ -20,5 +20,9 @@ This project is a repository to be treated as a template for various tools.
     - eslint.config.cts
     - eslint.config.mts
 - prittier
+    - .prettierrc
+    - .prettierrc.js
+    - .prettierrc.cjs
+    - .prettierrc.mjs
 - tailwind
 - tsconfig

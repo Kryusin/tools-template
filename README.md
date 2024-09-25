@@ -13,6 +13,12 @@ This project is a repository to be treated as a template for various tools.
     - cspell.config.yaml
     - cspell.json
 - eslint
+    - eslint.config.js
+    - eslint.config.cjs
+    - eslint.config.mjs
+    - eslint.config.ts
+    - eslint.config.cts
+    - eslint.config.mts
 - prittier
 - tailwind
 - tsconfig
